@@ -1,6 +1,8 @@
 
-<h1 align="center">👋 Привет! Я <span style="color:#0072ff">YOUR_NAME</span></h1>
-<h3 align="center">Unity • C# • C++ • Геймдев</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🌊+Добро+пожаловать+в+мой+GitHub!;🐬+Привет!+Я+YOUR_NAME;⚓+Создаю+красивые+проекты+на+Unity" />
+</p>
+
 
 
 ---
