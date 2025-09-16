@@ -16,14 +16,14 @@
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🛠️ Мои навыки
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,github,html,css,figma,blender,ps" />
 </p>
 
 ---
 
-## 📂 Проекты
+## 📂 Мои проекты
 ✨ Некоторые проекты, которыми горжусь:  
 
 - 🎈 [Balloon Jump](https://github.com/YOUR_USERNAME/project1) — игра на Unity, вдохновлённая Roblox.  
