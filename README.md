@@ -1,9 +1,8 @@
 
-<h1 align="center">🌊 Привет! Я YOUR_NAME 🐟</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
+  <img src="https://i.imgur.com/o7NCgQp.gif" width="100%" />
 </p>
+<h2 align="center">🌊 Привет! Я YOUR_NAME ⚓</h2>
 
 
 
