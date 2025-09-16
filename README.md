@@ -1,29 +1,22 @@
 
-<!-- Заголовок -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=+Hi+!+I'm+Shener;+Unity+%7C+C%23+%7C+Web" />
 </p>
 
-<!-- Красивый баннер -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=%20Welcome%20to%20my%20GitHub👋%20&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=30&font=Orbitron&animation=fadeIn" />
 </p>
 
 
-
----
-
 ## 👨‍💻 Обо мне
-✨ Разработчик / геймдев / программист.  
-🎮 Создаю игры и приложения на **Unity, C#, C++**.  
+🎮 Создаю игры и сайты на **Unity, C#, HTML**.  
 🌍 Люблю учиться новому и работать над креативными проектами.  
-🚀 Моя цель — делать проекты, которые приносят радость людям.  
+🚀 Моя цель — делать проекты, которые приносят радость мне и людям.  
 
----
 
 ## 🛠️ Технологии и инструменты
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,github,html,css,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,github,html,css,figma,blender,ps" />
 </p>
 
 ---
