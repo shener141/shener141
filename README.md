@@ -1,9 +1,10 @@
 <!-- Профиль GitHub README -->
 
 <!-- Заголовок с баннером -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Привет!%20Я%20shener141&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0072FF&center=true&vCenter=true&width=500&lines=Привет!+Я+Shener;Разработчик+и+геймдев;Люблю+Unity,+C%23+и+C%2B%2B" />
+</h1>
+
 
 ---
 
