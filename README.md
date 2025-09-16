@@ -6,7 +6,7 @@
 
 <!-- Красивый баннер -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🌌%20Добро%20пожаловать%20в%20мой%20GitHub%20🌌&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=30&font=Orbitron&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=%20Welcome%20to%20my%20GitHub%20&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=30&font=Orbitron&animation=fadeIn" />
 </p>
 
 
