@@ -1,10 +1,9 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/8q0iZ3T.gif" width="100%" />
+  <img src="https://i.imgur.com/1P6ZQhH.gif" width="100%" />
 </p>
-<h2 align="center">🚀 Привет! Я YOUR_NAME 🌌</h2>
-<p align="center">Создаю проекты так же безгранично, как космос</p>
-
+<h2 align="center">✨ Привет! Я YOUR_NAME ✨</h2>
+<p align="center">Мои проекты — как магия в коде 🦄</p>
 
 ---
 
