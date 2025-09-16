@@ -1,6 +1,8 @@
 
+<h1 align="center">🌊 Привет! Я YOUR_NAME 🐟</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=100&section=header&text=🌊%20Привет!%20Я%20YOUR_NAME%20⚓&fontSize=32&fontColor=ffffff" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="200" />
 </p>
 
 
