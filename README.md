@@ -1,11 +1,9 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/o7NCgQp.gif" width="100%" />
+  <img src="https://i.imgur.com/o5VRF3U.gif" width="100%" />
 </p>
-<h2 align="center">🌊 Привет! Я YOUR_NAME ⚓</h2>
-
-
-
+<h2 align="center">👾 Привет! Я <span style="color:#39FF14">YOUR_NAME</span> 👾</h2>
+<p align="center">Добро пожаловать в мой цифровой мир</p>
 
 ---
 
