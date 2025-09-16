@@ -17,7 +17,7 @@
 
 ## 🛠️ Технологии и инструменты
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,unity,git,github,html,css,js,blender,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,github,html,css,figma,ps" />
 </p>
 
 ---
