@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&pause=1000&color=FF1177&center=true&vCenter=true&width=600&lines=⚡+Привет!+Я+YOUR_NAME+⚡;👾+Разработчик+и+геймдев;🚀+Создаю+необычные+проекты" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=🌌%20YOUR_NAME%20🚀&fontSize=50&fontAlignY=45&animation=twinkling&stroke=00ffea" />
 </p>
 
 ---
