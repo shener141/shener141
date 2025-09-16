@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=36&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=🌊+Добро+пожаловать+в+мой+GitHub!;🐬+Привет!+Я+YOUR_NAME;⚓+Создаю+красивые+проекты+на+Unity" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c6ff,100:0072ff&height=100&section=header&text=🌊%20Привет!%20Я%20YOUR_NAME%20⚓&fontSize=32&fontColor=ffffff" />
 </p>
+
 
 
 
