@@ -1,7 +1,7 @@
 
 <!-- Заголовок -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=Hi+!+I'm+Shener;Unity+%7C+C%23+%7C+Web; />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=+Hi+!+I'm+Shener;+Unity+%7C+C%23+%7C+Web" />
 </p>
 
 <!-- Красивый баннер -->
