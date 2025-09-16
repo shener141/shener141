@@ -44,7 +44,7 @@
 ## 🌐 Контакты
 <p align="center">
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/your_telegram"><img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/shenerplug"><img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-005f9e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
