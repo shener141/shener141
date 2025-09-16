@@ -1,9 +1,7 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/1P6ZQhH.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=30&duration=4000&pause=1000&color=FF1177&center=true&vCenter=true&width=600&lines=⚡+Привет!+Я+YOUR_NAME+⚡;👾+Разработчик+и+геймдев;🚀+Создаю+необычные+проекты" />
 </p>
-<h2 align="center">✨ Привет! Я YOUR_NAME ✨</h2>
-<p align="center">Мои проекты — как магия в коде 🦄</p>
 
 ---
 
