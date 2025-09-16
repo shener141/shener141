@@ -43,11 +43,10 @@
 
 ## 🌐 Контакты
 <p align="center">
+  <a href="https://t.me/shenerplug"><img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vladzhidko06@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-  <a href="https://t.me/shenerplug"><img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-005f9e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
