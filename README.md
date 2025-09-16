@@ -1,13 +1,9 @@
 
 <!-- Заголовок -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=🚀+Привет!+Я+YOUR_NAME;👾+Unity+%7C+C%23+%7C+C%2B%2B;🌌+Создаю+необычные+проекты" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Neon+Tubes&size=40&duration=4000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=⚡+Привет!+Я+YOUR_NAME;👾+Разработчик+и+геймдев;🚀+Создаю+необычные+проекты" />
 </p>
 
-<!-- Красивый баннер -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=🌌%20Добро%20пожаловать%20в%20мой%20GitHub%20🌌&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=30&font=Orbitron&animation=fadeIn" />
-</p>
 
 ---
 
