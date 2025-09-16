@@ -27,7 +27,7 @@
 ✨ Некоторые проекты, которыми горжусь:  
 
 - 🎈 [Balloon Jump](https://github.com/YOUR_USERNAME/project1) — игра на Unity, вдохновлённая Roblox.  
-- 🏢 [Office Escape](https://github.com/shener141/Office_Escape_Game) — 3D-игра с уровнями в жанре хоррор.  
+- 👻 [Office Escape](https://github.com/shener141/Office_Escape_Game) — 3D-игра с уровнями в жанре хоррор.  
 - 🌐 [My Portfolio Website](https://github.com/YOUR_USERNAME/project3) — персональный сайт с проектами.  
 
 > ⚡ В каждом репозитории — скриншоты и описание, чтобы быстро понять суть проекта.
@@ -43,7 +43,7 @@
 
 ## 🌐 Контакты
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:your.valdzhidko06@gmail.com"><img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://t.me/shenerplug"><img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-005f9e?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
