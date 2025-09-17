@@ -38,11 +38,6 @@
 
 ---
 
-## 📅 Моя активность
-![Snake animation](https://github.com/shener141/shener141/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Контакты
 <p align="center">
   <a href="https://t.me/shenerplug"><img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
