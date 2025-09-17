@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&duration=4000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=+Hi+!+I'm+Shener;+Unity+%7C+C%23+%7C+Web" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=%20Welcome%20to%20my%20GitHub👋%20&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=30&font=Orbitron&animation=fadeIn" />
