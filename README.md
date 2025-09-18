@@ -23,7 +23,7 @@
 ## 📂 Мои проекты
 ✨ Вот несколько моих работ:  
 
-- 🎈 [Balloon Jump](https://github.com/YOUR_USERNAME/project1) — игра на Unity, вдохновлённая Roblox.  
+- 👾 [PurpleSquare](https://github.com/shener141/PurpleSquare_Game) — 2D платформер, вдохновлённый "Red Ball 4".  
 - 👻 [Office Escape](https://github.com/shener141/Office_Escape_Game) — атмосферная 3D-игра в жанре хоррор. 
 - 🌐 [My Portfolio Website](https://github.com/YOUR_USERNAME/project3) — персональный сайт с проектами.  
 
