@@ -48,3 +48,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shener141&theme=tokyonight&margin-w=15&margin-h=15&row=1&no-frame=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
