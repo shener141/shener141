@@ -46,7 +46,7 @@
   <a href="https://t.me/shenerplug" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:vladzhidko06@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vladzhidko06@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
