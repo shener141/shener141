@@ -44,10 +44,10 @@
 ## 🌐 Контакты
 <p align="center">
   <a href="https://t.me/shenerplug" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="40" height="40" alt="Telegram" style="fill:#26A5E4;" />
+    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="48" height="48" alt="Telegram"/>
   </a>
   <a href="mailto:vladzhidko06@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" alt="Email" style="fill:#EA4335;" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" alt="Email"/>
   </a>
 </p>
 
