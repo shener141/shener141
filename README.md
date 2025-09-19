@@ -44,19 +44,10 @@
 ## 🌐 Контакты
 <p align="center">
   <a href="https://t.me/shenerplug" target="_blank">
-    <img src="https://img.icons8.com/color/64/telegram-app--v1.png" width="48" height="48" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vladzhidko06@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/64/gmail-new.png" width="48" height="48" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/shener141" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/64/000000/github.png" width="48" height="48" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.icons8.com/color/64/discord-new-logo.png" width="48" height="48" alt="Discord"/>
+  <a href="mailto:vladzhidko06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
