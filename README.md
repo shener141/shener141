@@ -35,6 +35,7 @@
 
 ---
 
+## 🏆 Достижения
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shener141&theme=tokyonight&margin-w=15&margin-h=15&row=1&no-frame=true" />
 </p>
