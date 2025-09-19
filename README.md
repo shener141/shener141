@@ -43,12 +43,10 @@
 
 ## 🌐 Контакты
 <p align="center">
-  <a href="https://t.me/shenerplug" target="_blank">
-    <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="48" height="48" alt="Telegram"/>
-  </a>
-  <a href="mailto:vladzhidko06@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" alt="Email"/>
-  </a>
+  <a href="https://t.me/shenerplug"><img src="https://img.shields.io/badge/Telegram-00c6ff?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=vladzhidko06@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0072ff?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
